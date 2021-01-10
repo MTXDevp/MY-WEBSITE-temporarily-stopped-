@@ -1,2 +1,2 @@
-# MY-WEBSITE (TEMPORARILY STOPPED)
+# MY-WEBSITE
 Angular + stencil components

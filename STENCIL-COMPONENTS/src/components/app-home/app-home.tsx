@@ -10,12 +10,12 @@ export class AppHome {
     return (
       <div class="app-home">
         <p>
-          <p>Página de presentación en la que implementaré diferentes funcionalidades</p>
+          <p>Página de presentación en la que iré implementando diferentes funcionalidades</p>
 
 
           <p1>Contacto : </p1>
 
-          <a href="https://www.linkedin.com/in/mtxdevp/">linkedin.com/in/mtxdevp/</a>
+          <a href="https://www.linkedin.com/in/mtxdevp/" target="_blank">linkedin.com/in/mtxdevp/</a>
         </p>
 
         <stencil-route-link url="/profile/stencil">

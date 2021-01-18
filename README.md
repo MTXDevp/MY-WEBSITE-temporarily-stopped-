@@ -1,2 +1,2 @@
 # MY-WEBSITE
-Angular + stencil components
+IONIC PWA with different backends and stencil components

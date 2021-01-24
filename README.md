@@ -1,5 +1,4 @@
 # MY-WEBSITE
 IONIC PWA with different backends and stencil components
 
--next steps -> Angular Universal con Ionic for SEO
--code all APIS
+-next steps -> Angular Universal con Ionic for SEO and code all APIS
